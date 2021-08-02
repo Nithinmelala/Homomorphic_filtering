@@ -1,4 +1,4 @@
-# Homomorphic_filtering
+# Homomorphic Filtering
 
 ### Matlab
 
